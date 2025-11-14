@@ -9,4 +9,4 @@ Also learning functional programming 🐫
 
 Feel free to contribute to anything I'm working on!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterkepley&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterkepley&stats_format=bytes&layout=compact)
