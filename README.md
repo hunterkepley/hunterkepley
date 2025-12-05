@@ -1,5 +1,4 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hunterkepley&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterkepley&theme=onedark&stats_format=bytes&layout=compact)
-
+![](https://github-profile-trophy.vercel.app/?hunterkepley=ryo-ma&column=-1)
 
 Engineer at Red Hat focusing on Openshift/ROSA/etc
 
