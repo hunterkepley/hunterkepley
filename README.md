@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=hunterkepley&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunterkepley&show_icons=true&theme=tokyonight)
 
 
 Engineer at Red Hat focusing on Openshift/ROSA/etc
