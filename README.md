@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=hunterkepley&column=-1&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=hunterkepley&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 
 Engineer at Red Hat focusing on Openshift/ROSA/etc
 
