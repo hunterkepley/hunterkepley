@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=hunterkepley&show_icons=true&theme=tokyonight)
 
-Engineer at Red Hat, worked on Openshift since 2022 (maintained ROSA CLI and RHCS TF for over a year), now working on Ansible
+Engineer at Red Hat, worked on Openshift since 2022 (including maintaining/leading ROSA CLI and RHCS TF for over a year), now working on Ansible (Feb 2026)
 
 Game developer and open source contributor in my free time. Godot is pretty rad
 
